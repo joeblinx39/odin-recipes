@@ -1,0 +1,79 @@
+body {
+background-color: #F7F052;
+}
+
+.container {
+    margin: auto;
+    width: 75%;
+    background-color: #F28123;
+    padding: 20px;
+    margin-top: 40px;
+    border-radius: 25px;
+    box-shadow: 8px 10px #272626;
+}
+
+.title{
+    text-align: center;
+    color: #352711;
+    text-shadow: 1px 2px #F7F052;
+    font-weight: 800;
+    font-size: 42px;
+}
+
+.image {
+    width: 80%;
+    margin-left: 8%;
+    height: auto;
+    border-radius: 25px;
+    border: 20px #D34E24;
+    border-style: solid solid inset;
+}
+
+#editan.image {
+    height: 600px;
+    width: 85%;
+    margin-left: 5%;
+}
+
+.subtitle {
+    text-align: center;
+    font-weight: 700;
+    font-size: 32px;
+    color: #38726C;
+    text-shadow: 1px 2px #F7F052;
+    text-decoration: underline;
+    text-transform: uppercase;
+}
+
+p {
+    text-indent: 50px;
+    text-align: justify;
+}
+
+p, 
+.unordered-list li,
+.ordered-list li {
+    color: #38726C;
+    text-shadow: 1px 1px #352711;
+    width: 80%;
+    font-size: 20px;
+    line-height: 2;
+    letter-spacing: 1px;
+    font-weight: 500;
+    margin: auto;
+}
+
+.link {
+    text-decoration: none;
+    color: #F7F052;
+    text-shadow: 1px 2px #352711;
+}
+
+.btn {
+    background-color: #38726C;
+    padding: 5px;
+    border-radius: 25px;
+    box-shadow: 2px 4px #272626;  
+    text-align: center; 
+    margin: 30px;
+}
